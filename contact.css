@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wed img{
+    position: absolute;
+    margin-top: 5%;
+    height: 40%;
+    width: 40%;
+    left: 30%;
+    border: 5px white;
+    border-radius: 15px;
+}
+p{
+    position: absolute;
+    font-size: 18px;
+    background: whitesmoke;
+    border: 3px black;
+    width: 820px;
+    padding: 30px;
+    border-radius: 5px;
+    left: 20%;
+    margin-top: 18px;
+    text-align: center;
+    right: 10%;
+    font-family: 'times new roman';
+}
