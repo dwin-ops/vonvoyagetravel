@@ -19,6 +19,8 @@ body{
     text-align: center;
     text-transform: uppercase;
     margin: 40px 0;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
 }
 .booknow p{
     font-size: 20px;
